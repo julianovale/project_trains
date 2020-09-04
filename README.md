@@ -4,3 +4,4 @@
 [Exemplo 03](/Exemplo_03.ipynb)<br />
 [Exemplo 03.1](/Exemplo_03_1.ipynb)<br />
 [Exemplo 04](/Exemplo_04.ipynb)<br />
+[Ideias_Juliano_20200901](/Ideias_Juliano_20200901.ipynb)<br />
