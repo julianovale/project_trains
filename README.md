@@ -6,3 +6,4 @@
 [Exemplo 04](/Exemplo_04.ipynb)<br />
 [Ideias_Juliano_20200901](/Ideias_Juliano_20200901.ipynb)<br />
 [Ideias_Juliano_20200907](/Ideias_Juliano_20200907.ipynb)<br />
+[Algoritmo Carla ==> Funcionando](/AlgoritmoCarla.ipynb)<br />
